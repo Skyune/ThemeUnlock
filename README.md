@@ -1,9 +1,7 @@
 # ThemeUnlock!
 
-BetterDiscord plugin, automatically unlocks nitro client side aswell as themes, adds flower decorations to your profile.
-Still in early stages :) Need more work for it to work better. Currently the applied themes arent saved when you restart discord.
-
-(Flower decoration and nitro is applied even when you restart)
+BetterDiscord plugin, automatically unlocks nitro client side aswell as themes.
+(Nitro themes are applied even if you restart the app)
 
 
 ![image](https://user-images.githubusercontent.com/74641081/234146748-4da0e7b1-ee78-4125-9be6-06531c846b66.png)
